@@ -24,3 +24,4 @@ end
 
 for i in 0..10
     puts "saldo = #{i}"
+end
