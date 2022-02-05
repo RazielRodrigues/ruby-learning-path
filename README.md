@@ -1,2 +1,11 @@
 # Ruby Learning Path
-In this repository I will make my road to ruby.
+
+- dinamica
+- fortemente tipada
+- funciona melhor em linux
+- IRB (terminal interativo)
+
+# Instalação
+
+- Windows (WSL)
+    sudo apt install ruby
