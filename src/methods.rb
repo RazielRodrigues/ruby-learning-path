@@ -8,7 +8,7 @@ puts soma(123,32)
 puts soma(123)
 
 def soma_nomeados(valor1:, valor2:)
-    puts "#{valor1} e o #{valor2}"
+    puts "#{valor1 + valor2}"
     soma(valor1,valor2)
 end
 
