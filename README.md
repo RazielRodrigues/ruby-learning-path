@@ -4,6 +4,7 @@
 - fortemente tipada
 - funciona melhor em linux
 - IRB (terminal interativo)
+- ruby-doc (site da doc)
 
 # Instalação
 
