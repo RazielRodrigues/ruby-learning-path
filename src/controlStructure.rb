@@ -18,10 +18,28 @@ end
 
 until valor == 20
     puts valor
-    return valor > 2
+    # sai do script return valor > 2
     valor += 5
 end
 
 for i in 0..10
     puts "saldo = #{i}"
+end
+
+numeros = ['banana', 'laranja']
+
+numeros.each do |meuValor|
+    puts "a sua fruta #{meuValor}"
+end
+
+dados = {:nome => "Ana"}
+
+dados.each do |chave, valor|
+    puts "chave: #{chave} e o valor #{valor}"
+end
+
+dados = {'nome' => "Ana"}
+
+dados.each do |chave, valor|
+    puts "chave: #{chave} e o valor #{valor}"
 end
