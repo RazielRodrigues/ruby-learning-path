@@ -22,3 +22,10 @@ end
 puts palindrom?('ovo')
 puts palindrom?('foo')
 puts palindrom?('Ovo')
+
+def palindrom2?(palavra)
+    palavra.downcase == palavra.downcase.reverse
+end
+
+puts palindrom2?('ovo')
+
