@@ -10,3 +10,5 @@
 
 - Windows (WSL)
     sudo apt install ruby
+
+<img src="certificado.png" />
