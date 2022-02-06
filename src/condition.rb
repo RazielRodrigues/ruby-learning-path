@@ -65,3 +65,11 @@ when "golang"
 else
     puts "nao conheço"
 end
+
+
+variavel = nil
+# se variavel for nil 
+# seta como 20
+variavel ||= 20
+
+puts variavel
